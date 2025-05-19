@@ -1,14 +1,14 @@
-# 🤖 Bluetooth Text-to-Speech (TTS) Smart Glove
+#  Bluetooth Text-to-Speech (TTS) Smart Glove
 
 A wearable assistive system that interprets sign language gestures into text and speech using accelerometers, an ESP32 microcontroller, and a Bluetooth-connected mobile application. Designed to enhance communication accessibility for individuals with speech impairments.
 
-## 📱 Project Overview
+##  Project Overview
 
 This project integrates a **smart glove** with embedded accelerometers and an **Android mobile application**. The glove detects hand gestures corresponding to sign language using the ADXL335 accelerometers, which are processed in real-time by the ESP32 microcontroller. Recognized gestures are transmitted to a mobile device via Bluetooth and then converted into text and synthesized speech using the TTS app.
 
 ---
 
-## 🧠 System Components
+## 🔍 System Components
 
 ### 1. Smart Glove Hardware
 - **ESP32 Microcontroller**: Main processing unit for gesture recognition and Bluetooth communication.
@@ -30,7 +30,6 @@ This project integrates a **smart glove** with embedded accelerometers and an **
 - 🔗 Wireless Bluetooth communication.
 - 🔊 Adjustable speech pitch and speed.
 - 📲 Intuitive mobile interface.
-- 📶 Compatible with multiple Android devices.
 - 👨‍🦯 Designed for users with speech and hearing impairments.
 
 ---
@@ -69,10 +68,8 @@ This project integrates a **smart glove** with embedded accelerometers and an **
 
 ### Software
 - Arduino IDE
-- Android Studio (for mobile app development)
-- Android device (API level 21+ recommended)
-
+  
 ---
 
-## 🔍 Block Diagram
+##  Block Diagram
 
