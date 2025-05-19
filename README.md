@@ -73,17 +73,17 @@ This project integrates a **smart glove** with embedded accelerometers and an **
 
 ##  Block Diagram
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94510f71-ef3f-4e18-87fa-b03097a1bb3f" alt="Image" width="600">
+  <img src="https://github.com/user-attachments/assets/94510f71-ef3f-4e18-87fa-b03097a1bb3f" alt="Image" width="400">
 </p>
 
 ## Help in Sign Language
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55b9bf46-673f-4092-b277-b89e62cec74c" alt="Image" width="600">
+  <img src="https://github.com/user-attachments/assets/55b9bf46-673f-4092-b277-b89e62cec74c" alt="Image" width="200">
 </p>
 
 ## Implementation
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4409bf48-4e46-44a5-98ca-991d64f16717" alt="Image" width="600">
+  <img src="https://github.com/user-attachments/assets/4409bf48-4e46-44a5-98ca-991d64f16717" alt="Image" width="800">
 </p>
 
 The Bluetooth Text-to-Speech Smart Glove effectively bridges the communication gap for individuals with speech impairments by translating sign language gestures into audible speech. Through real-time gesture recognition and Bluetooth-enabled mobile integration, it offers both visual and auditory feedback. This innovative solution enhances accessibility, inclusivity, and ease of communication in everyday interactions.
